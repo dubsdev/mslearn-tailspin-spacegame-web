@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/dubsdevaz/SpaceG%20-%20Web%20-%20Pipeline/_apis/build/status/dubsdev.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/dubsdevaz/SpaceG%20-%20Web%20-%20Pipeline/_build/latest?definitionId=29&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
